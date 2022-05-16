@@ -35,7 +35,7 @@ My main traits are hard work and scientific curiosity. And then you will notice 
   <a href="https://vk.com/energyfluctuation">
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="nabiev.aa@phystech.edu">
+  <a href="https://write_me_here->nabiev.aa@phystech.edu">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
