@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/l3Ucfk8zqn7NAjLLq/giphy.gif" width="500"/>
 </div>
 
-### Nice to meet you on my github page !
+###### Nice to meet you on my github page !
 
 # About me
 My name is Arman Nabiev and I'm a studen of MIPT (Moscow Institute of Physics and Technology). <br/> 
