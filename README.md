@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ## Nice to meet you on my page
 
 # About me
-My name is Arman Nabiev and i'm a studen of MIPT (Moscow Institute of Physics and Technology). One of my main traits is hard work. And then you will notice that i love dora's songs.
+My name is Arman Nabiev and i'm a studen of MIPT (Moscow Institute of Physics and Technology). My main traits are hard work and scientific curiosity. And then you will notice that i love dora's songs.
 
 # Important works
-[Compiler (Last project in the 1-st course](https://github.com/armanincredible/Compiler)     <br/>
-[Language based on dora songs](https://github.com/armanincredible/Language)                  <br/>
-[Hash table with SSE optimization](https://github.com/armanincredible/HashTableWithOpt)      <br/>
-[Differentiator that gives answer in tex](https://github.com/armanincredible/differentiator) <br/>
-[Akinator (three types of game)](https://github.com/armanincredible/akinator)                <br/>
++ [Compiler (Last project in the 1-st course)](https://github.com/armanincredible/Compiler)     <br/>
++ [Language based on dora songs](https://github.com/armanincredible/Language)                  <br/>
++ [Hash table with SSE optimization](https://github.com/armanincredible/HashTableWithOpt)      <br/>
++ [Differentiator that gives answer in tex](https://github.com/armanincredible/differentiator) <br/>
++ [Akinator (three types of game)](https://github.com/armanincredible/akinator)                <br/>
