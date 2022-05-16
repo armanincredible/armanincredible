@@ -33,7 +33,7 @@ My main traits are hard work and scientific curiosity. And then you will notice 
 # My contacts
 <div id="badges">
   <a href="https://vk.com/energyfluctuation">
-    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=VKontakte&logoColor=white" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
   <a href="nabiev.aa@phystech.edu">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
