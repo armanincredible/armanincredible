@@ -17,11 +17,11 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/l3Ucfk8zqn7NAjLLq/giphy.gif" width="500"/>
 </div>
 
-## Nice to meet you on my page
+### Nice to meet you on my github page !
 
 # About me
-My name is Arman Nabiev and i'm a studen of MIPT (Moscow Institute of Physics and Technology). <br/> 
-My main traits are hard work and scientific curiosity. And then you will notice that i love dora's songs.
+My name is Arman Nabiev and I'm a studen of MIPT (Moscow Institute of Physics and Technology). <br/> 
+My main traits are hard work and scientific curiosity. And then you will notice that I love dora's songs.
 
 # Important works
 + [Compiler (Last project in the 1-st course)](https://github.com/armanincredible/Compiler)    <br/>
@@ -29,3 +29,16 @@ My main traits are hard work and scientific curiosity. And then you will notice 
 + [Hash table with SSE optimization](https://github.com/armanincredible/HashTableWithOpt)      <br/>
 + [Differentiator that gives answer in tex](https://github.com/armanincredible/differentiator) <br/>
 + [Akinator (three types of game)](https://github.com/armanincredible/akinator)                <br/>
+
+# My contacts
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
